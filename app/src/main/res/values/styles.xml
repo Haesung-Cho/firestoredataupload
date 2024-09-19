@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- AppCompat 테마 정의 -->
+    <style name="Theme.MyFirebaseApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 테마의 색상 및 스타일을 여기에 정의합니다 -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
