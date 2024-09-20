@@ -76,6 +76,7 @@ dependencies {
 
     implementation(libs.firebase.firestore.ktx) // Firestore SDK
     implementation(libs.firebase.analytics.ktx) // Firebase Analytics SDK
+    implementation("com.squareup.okhttp3:okhttp:4.10.0")
 
 
 }
