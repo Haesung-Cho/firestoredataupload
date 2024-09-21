@@ -1,0 +1,52 @@
+
+[
+  {
+    "name": "강아지봄",
+    "address": "경기 용인시 수지구 심곡로 87 수지 제일 아이조움",
+    "category": "미용실",
+    "latitude": 37.3107,
+    "longitude": 127.0814,
+    "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMTBfMTY0%2FMDAxNzA0ODYyMzA3NDY3.FLL9638rhiD-von2PR9-g59bluDhl27ozgGANUBlRQsg.Jpm5nTGXe5bPEeJM0C6qk9JxT6aKfzPrMZVUV6Ij6Ngg.JPEG.zonever7%2F20240104_165955.jpg"],
+    "price": "목욕 2만원, 미용 3만원",
+    "url": "https://naver.me/FWJPzce2",
+    "phone": "0507-1416-4131",
+    "time": "매일 10:00 ~ 19:00"
+  },
+  {
+    "name": "웰니스동물병원",
+    "address": "경기 용인시 수지구 성복2로 38 롯데몰 수지점 B1층",
+    "category": "병원",
+    "latitude": 37.3134,
+    "longitude": 127.0816,
+    "images": ["https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190906_146%2F1567739071046Jkdza_JPEG%2FY8MgRhXTY3Cy7q-EBMVPsizz.jpeg.jpg"],
+    "price": "5kg미만 호텔 30,000원, 기타 문의",
+    "url": "https://naver.me/56I9ipOj",
+    "phone": "0507-1373-4030",
+    "time": "11:00 ~ 18:30, 수/금 정기휴무"
+  },
+  {
+    "name": "도그캐슬",
+    "address": "경기 용인시 수지구 만현로 110 원희캐슬프라자 B동 122호",
+    "category": "호텔",
+    "latitude": 37.3068,
+    "longitude": 127.0844,
+    "images": ["https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230331_140%2F1680241154712THj0G_JPEG%2F20230331_143702.jpg"],
+    "price": "호텔 30,000원",
+    "url": "https://naver.me/xw6rO1SC",
+    "phone": "0507-1488-0322",
+    "time": "10:00 ~ 19:00, 매주(일) 정기휴무"
+  },
+  {
+    "name": "슈슈댕 grooming 광교상현점",
+    "address": "경기 용인시 수지구 심곡로 18 상가동 1층 후면",
+    "category": "미용실",
+    "latitude": 37.3069,
+    "longitude": 127.0765,
+    "images": ["https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_5%2F1704688915932615cQ_JPEG%2F20231228_201844.jpg"],
+    "price": "미용",
+    "url": "https://naver.me/xw6rO1SC",
+    "phone": "0507-1375-9051",
+    "time": "10:00 ~ 19:00",
+    "instagram": "https://www.instagram.com/choudaeng_grooming"
+  }
+]
